@@ -46,7 +46,7 @@ WINDOW_TYPE    = "hann"   # cửa sổ Hann tiêu chuẩn
 TILE_SIZE      = 224
 USE_LOG_POWER  = True
 
-BAND_LOW       = 13
+BAND_LOW       = 0.5
 BAND_HIGH      = 40
 N_FREQS        = 32
 
